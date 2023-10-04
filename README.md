@@ -4,4 +4,4 @@ Simulado para prova de Flutter
 
 ## Demonstração da Aplicação
 
-<img src="/assets/images/demo.gif">
+<img width="200" src="/assets/images/demo.gif">
